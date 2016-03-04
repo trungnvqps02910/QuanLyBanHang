@@ -1,0 +1,15 @@
+C:\Users\CHIP\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\CHIP\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\CHIP\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\CHIP\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.xml
+C:\Users\CHIP\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Resources.resources
+C:\Users\CHIP\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.vbproj.GenerateResource.Cache
+C:\Users\CHIP\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\CHIP\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.xml
+C:\Users\CHIP\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\CHIP\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDangNhap.resources
+C:\Users\CHIP\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDieuKhien.resources
+C:\Users\CHIP\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmCapNhatSP.resources
+C:\Users\CHIP\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmCapNhatKH.resources
+C:\Users\CHIP\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+C:\Users\CHIP\Desktop\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
